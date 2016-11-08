@@ -10,4 +10,5 @@ Automatic login for BUPT Campus Network written in python
 
 //TODO:
     1. 加个文件保存加密后的上次调用的参数，这样没有填参数的也不用每次填参数。
+    
     2. 加个自动找出loginurl和host的地址的脚本，减少两个手动填的参数。
